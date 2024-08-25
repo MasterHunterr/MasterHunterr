@@ -12,5 +12,5 @@
 - **Tools**: I'm create my tools
 
 ## 📈 GitHub Stats
-![MasterHunterr's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterHunterr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterHunterr&layout=compact&theme=radical)
+![MasterHunterr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterHunterr&show_icons=true&line_height=27&count_private=true&bg_color=0a2818&title_color=00ff7f&text_color=b0c4b1&icon_color=32cd32&border_color=556b2f)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterHunterr&theme=transparent&langs_count=3&bg_color=0a2818&title_color=00ff7f&text_color=b0c4b1&border_color=556b2f)
