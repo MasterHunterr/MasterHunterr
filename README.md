@@ -19,8 +19,8 @@
   - Custom tool development
 
 ## 📈 GitHub Stats
-![MasterHunterr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterHunterr&show_icons=true&line_height=27&count_private=true&bg_color=0a2818&title_color=00ff7f&text_color=b0c4b1&icon_color=32cd32&border_color=556b2f)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterHunterr&theme=transparent&langs_count=3&bg_color=0a2818&title_color=00ff7f&text_color=b0c4b1&border_color=556b2f)
+![MasterHunterr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterHunterr&show_icons=true&line_height=27&count_private=true&bg_color=1a1a1a&title_color=76c7c0&text_color=d3d3d3&icon_color=ff9e00&border_color=2f4f4f)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterHunterr&theme=transparent&langs_count=3&bg_color=1a1a1a&title_color=76c7c0&text_color=d3d3d3&border_color=2f4f4f)
 
 ## 🚀 Projects
 - **Delete PS3 Files and Folders**  
