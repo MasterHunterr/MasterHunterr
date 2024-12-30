@@ -8,9 +8,10 @@
 
 ## 🔧 Tools & Technologies
 - **Languages**: 
-  - Python
-  - C++
   - C
+  - C++
+  - C#
+  - Python
 - **Platforms**: 
   - PS3
   - Linux
