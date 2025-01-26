@@ -12,6 +12,9 @@
   - C++
   - C#
   - Python
+  - Html
+  - Css
+  - JS
 - **Platforms**: 
   - PS3
   - Linux
